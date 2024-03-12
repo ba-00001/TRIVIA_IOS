@@ -27,28 +27,23 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
-![App GIF preview](https://github.com/ba-00001/TRIVIA_IOS/blob/main/trivia_ios_DEVICES.gif) width="200px" 
- <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/trivia_ios_DEVICES.gif" width="800" alt="Image 1">
+ <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/trivia_ios_DEVICES.gif" width="800" alt="App GIF preview">
  
 ## App Preview
 
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_1.png" width="200" alt="Image 1">
-    <figcaption>Wordle App Icon</figcaption>
+    <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_1.png" width="500" alt="Image 1">
+    <figcaption>App Preview 1</figcaption>
   </figure>
   
   <figure>
-    <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_2.png" width="200" alt="Image 2">
-    <figcaption>App Launch screen</figcaption>
+    <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_2.png" width="500" alt="Image 2">
+    <figcaption>App Preview 2</figcaption>
   </figure>
   
-  <figure>
-    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_APP_PREVIEW.png" width="200" alt="Image 3">
-    <figcaption>App preview</figcaption>
-  </figure>
+ 
 </div>
 
 
