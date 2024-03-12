@@ -4,7 +4,7 @@ Submitted by: **BRIAN BAZURTO**
 
 **Trivia Quiz App** is an app that allows users to test their knowledge by answering a series of trivia questions.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
