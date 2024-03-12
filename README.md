@@ -28,8 +28,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
-![App GIF preview](https://github.com/ba-00001/TRIVIA_IOS/blob/main/trivia_ios_DEVICES.gif){: width="200px" }
-
+![App GIF preview](https://github.com/ba-00001/TRIVIA_IOS/blob/main/trivia_ios_DEVICES.gif) width="200px" 
+ <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/trivia_ios_DEVICES.gif" width="600" alt="Image 1">
+ 
 ## App Preview
 
 <!-- Single row of images with names -->
