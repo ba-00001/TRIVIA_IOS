@@ -37,13 +37,14 @@ The following **additional** features are implemented:
     <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_1.png" width="500" alt="Image 1">
     <figcaption>App Preview 1</figcaption>
   </figure>
-  
+</div>
+ 
+  <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_2.png" width="500" alt="Image 2">
-    <figcaption>App Preview 2</figcaption>
+    <figcaption align="center">App Preview 2</figcaption>
   </figure>
   
- 
 </div>
 
 
