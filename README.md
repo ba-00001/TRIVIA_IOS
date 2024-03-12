@@ -32,19 +32,19 @@ The following **additional** features are implemented:
 ## App Preview
 
 <!-- Single row of images with names -->
+
+<figcaption>App Preview 1</figcaption>
 <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_1.png" width="500" alt="Image 1">
-    <figcaption>App Preview 1</figcaption>
   </figure>
 </div>
- 
+
+  <figcaption align="center">App Preview 2</figcaption>
   <div align="center">
   <figure>
     <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_2.png" width="500" alt="Image 2">
-    <figcaption align="center">App Preview 2</figcaption>
   </figure>
-  
 </div>
 
 
