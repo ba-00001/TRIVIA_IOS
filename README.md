@@ -35,12 +35,12 @@ The following **additional** features are implemented:
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/IOS_APP_ICON.png" width="200" alt="Image 1">
+    <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_1.png" width="200" alt="Image 1">
     <figcaption>Wordle App Icon</figcaption>
   </figure>
   
   <figure>
-    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_LAUNCH_SCREEN.png" width="200" alt="Image 2">
+    <img src="https://github.com/ba-00001/TRIVIA_IOS/blob/main/TRIVIA_IOS_IMG_2.png" width="200" alt="Image 2">
     <figcaption>App Launch screen</figcaption>
   </figure>
   
